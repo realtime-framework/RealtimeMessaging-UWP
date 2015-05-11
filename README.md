@@ -13,7 +13,7 @@ If you're building a Windows Universal App with data that needs to be updated in
 [http://messaging-public.realtime.co/documentation/windows8.1/2.1.0/index.html](http://messaging-public.realtime.co/documentation/windows8.1/2.1.0/index.html)
 
 ## Example
-[Here you can find the source of a Windows Universal App example using this Realtime SDK](https://github.com/realtime-framework/Messaging/tree/master/Windows%208.1%20Universal%20Apps)
+Source code of a Windows Universal App example using this Realtime SDK: [https://github.com/realtime-framework/MessagingWindows8.1-Example](https://github.com/realtime-framework/MessagingWindows8.1-Example)
 
 ## Authors
 Realtime.co
